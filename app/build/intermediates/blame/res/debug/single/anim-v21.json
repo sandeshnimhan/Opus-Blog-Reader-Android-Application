@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android_images_and_data\\OuttInterview\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\nimha\\.android\\build-cache\\0384463c5c08f81e553809bf1a51214a2cb164fb\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\Android_images_and_data\\OuttInterview\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\nimha\\.android\\build-cache\\0384463c5c08f81e553809bf1a51214a2cb164fb\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Android_images_and_data\\OuttInterview\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\nimha\\.android\\build-cache\\0384463c5c08f81e553809bf1a51214a2cb164fb\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

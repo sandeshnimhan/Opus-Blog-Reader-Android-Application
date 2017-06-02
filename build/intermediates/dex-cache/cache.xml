@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\79f4e5bf23847ab6e0eb89d155d024756ac58419\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_e8a696865ef6f4b20cd65a0dde7be395161c5c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\93e98b9ee7ced7ee895f20ba9f4ff884dff422b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_74a85babbb509e94b3eeb2ba68f11648b22c0eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\8ff65657e87300a6298dca1135f32e56751c99b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_d74b2af2177d542738aa19003e091a1707808ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\8854ecf03026fa911bdd71cd3f16323de6948fab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_927d814405b165344a939b110e3ad651090e2890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\28f53a011f4f506faa43697b5ce457bd3acf166b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bc70dfdfa0d27b7ecf2e4aae32429ada2b09bfe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\b20788e243eea95a2b395147f8ed44d97abfd80c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_e01a12d3411387794c532f4fa041227dcd61c112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\0384463c5c08f81e553809bf1a51214a2cb164fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_9b1ec6c6a6cd8152e62ab215ff11c68ea9f4c53f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\9af976f85a7b5b1447055716fd3cf5d88a298eea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_83593a758f7f214333f47d2257e10c45976cee21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\93e98b9ee7ced7ee895f20ba9f4ff884dff422b1\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a1b0e1498bf72b311ba0783ef7e6cea49d0b7d5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_images_and_data\OuttInterview\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57786b59cb97d497f6b1fd73e479289c4e1e9cf1">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9799c6858d3135fcd451e64b6bc616d207442fe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_images_and_data\OuttInterview\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2ebb7a9d9faffea97d2e0ada5c4546eb34075fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\00a9c3e19d536e9a1572b4e8c59e0e403564f3d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_6b3602cc630ba4521e597fb1679ed4af78b9088d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\28f53a011f4f506faa43697b5ce457bd3acf166b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_985b1ced2a46e4564a7294639c45e43344a14a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\8ff65657e87300a6298dca1135f32e56751c99b0\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0bdd94ef07208536f195aa230408ddce6a0b2455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\f1575b87756d38fde094f99a8194add26a0888ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_6cd9ef31efb0d32f8d99b1f646ab929565039956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\85f420c66126d2e4454aa1d38e7d79f17ac89525\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_50c609d7c60544fdec90c32910139a63957dbf3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\85f420c66126d2e4454aa1d38e7d79f17ac89525\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\classes_338a24e202b21ba6527e768f75bc9ee5fc4b2b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nimha\.android\build-cache\00a9c3e19d536e9a1572b4e8c59e0e403564f3d8\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Android_images_and_data\OuttInterview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9edf0798bdcccfb1f698731a893cf614497a6951.jar" />
+    </item>
+
+</items>
