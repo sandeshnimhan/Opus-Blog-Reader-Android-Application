@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Android_images_and_data\\OuttInterview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "D:\\Android_images_and_data\\OuttInterview\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_images_and_data\\OuttInterview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\outt_logo_icon_transparent.png",
+        "source": "D:\\Android_images_and_data\\OuttInterview\\app\\src\\main\\res\\mipmap-xhdpi\\outt_logo_icon_transparent.png"
     }
 ]
